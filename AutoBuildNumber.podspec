@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name           = 'AutoBuildNumber'
   s.version        = '0.1'
   s.platform       = :ios, '8.0'
-  s.summary        = 'Generate auto build number for every build.'
+  s.summary        = 'Automatically update build number for Xcode archive.'
   s.license        = 'MIT'
   s.homepage       = 'https://github.com/muyexi/AutoBuildNumber'
   s.author         = { 'muyexi' => 'muyexi@gmail.com' }
