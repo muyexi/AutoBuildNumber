@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name           = 'AutoBuildNumber'
-  s.version        = '0.6'
+  s.version        = '0.1'
   s.platform       = :ios, '8.0'
   s.summary        = 'Generate auto build number for every build.'
   s.license        = 'MIT'
